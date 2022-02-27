@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A free, plain, and just way concerning communion and excommunication, at, or from the Lords table. With a Christian account concerning the same. With answers to the objections to the contrary. In which is shewed, that the Church to day hath no more power to excommunicate from the Lords table, then it had yesterday power to separate from the altar, unto which sinners were exhorted by the church to go; whereby they might (as they are required at the Lords table) perfect their praises and repentance. And that the pretended differences in baptism, are no just ground of separation. / Written by William Kaye, with Christians approbation, with submission to the general oversight.</title>
+            <author>Kaye, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87701</idno>
+            <idno type="STC">Wing K34</idno>
+            <idno type="STC">Thomason E826_11</idno>
+            <idno type="STC">ESTC R207719</idno>
+            <idno type="EEBO-CITATION">99866756</idno>
+            <idno type="PROQUEST">99866756</idno>
+            <idno type="VID">168044</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87701)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168044)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 125:E826[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A free, plain, and just way concerning communion and excommunication, at, or from the Lords table. With a Christian account concerning the same. With answers to the objections to the contrary. In which is shewed, that the Church to day hath no more power to excommunicate from the Lords table, then it had yesterday power to separate from the altar, unto which sinners were exhorted by the church to go; whereby they might (as they are required at the Lords table) perfect their praises and repentance. And that the pretended differences in baptism, are no just ground of separation. / Written by William Kaye, with Christians approbation, with submission to the general oversight.</title>
+                  <author>Kaye, William.</author>
+               </titleStmt>
+               <extent>[4], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan. 30. 1654"; the second 5 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Excommunication --  Early works to 1800.</term>
+               <term>Lord's Supper --  Early works to 1800.</term>
+               <term>Baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168044:1" rendition="simple:additions"/>
+            <p>A Free, Plain, and Juſt Way Concerning Communion and Excommunication, At, Or from The Lords Table. With A Chriſtian Account Concerning the ſame. With Anſwers to the Objections to the contrary.</p>
+            <p>In which is ſhewed, that the Church to day hath no more power to excommunicate from the Lords Table, then it had yeſterday power to ſeparate from the Altar, unto which ſinners were exhorted by the Church to go; whereby their praiſes and repentance. And that the pretended diffe<g ref="char:EOLhyphen"/>rences in Baptiſm, are no juſt ground of ſeparation.</p>
+            <p>Written by <hi>Willam Kaye,</hi> with Chriſtians approbation, with ſubmiſſion to the general Overſight.</p>
+            <p>
+               <hi>He taketh away the firſt, [the ſacrifice of the Altar] that he might eſtabliſh a ſecond [Chriſts ſacrifice held forth at the Lords Table.]</hi>
+            </p>
+            <p>
+               <hi>Having therefore boldneſs to enter into the holieſt by the blood of Jeſus by a new and living way, which he hath conſecrated for us through the veil which is his fleſh,</hi> Heb. 10.1, 2, 8, 9, 19, 20.</p>
+            <q>The bread which we breake, is it not the Communion of the body of Chriſt, &amp;c.
+<bibl>
+                  <hi>1 Cor. 10.16.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>Let a man examine himſelf, and ſo let him eat,</hi> &amp;c. 1 Cor. 11.28.</p>
+            <p>Printed in the year, 1655.</p>
+         </div>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:168044:2"/>
+            <pb facs="tcp:168044:2"/>
+            <head>A Chriſtian account concerning the acknow<g ref="char:EOLhyphen"/>ledgement of Communion and Excommunication.</head>
+            <head type="sub">Humbly preſented to all Chriſtians to judge thereof, and to undeceive ſuch as have heard of it as falſly reported.</head>
+            <p>TO perſevere in the Chriſtian profeſſion, moderation, truth, and unity, ſpeaks ſo much your experience in your effectuall calling, as that you know that it is not ſo much a matter of ad<g ref="char:EOLhyphen"/>miration, to finde out the ſtraight way of Reformation, by following of Chriſt in the for-ſaking of Antichriſt, as it is to finiſh our Courſe, ſaithfully, and orderly; for if the ſpirit of <hi>Core,</hi> and <hi>Demas,</hi> have more place left in them for ſchiſm, pride and worldlyneſs, as a bow over bent they will breake, ſtart a ſide, or ſhipwrake their profeſſions.</p>
+            <p>Not then to pleaſe men, but God, is to fight with the wolfe, which would devour the ſheepe, and red Dragon which doth watch to diſ<g ref="char:EOLhyphen"/>troy the truths which are to be brought forth, as the food for the ſoules of Gods elect people; ſo that a faithfull paſtour muſt ſtand as a Rocke, againſt which the waves of the envious ſea of reproaches may breake it ſelfe, as not able to breake down the ſtandard of ſincere profeſſors, for whoſe ſake it is the ſpecicall duty, of ever Goſpel-miniſter, not only Chriſt-like, to be ſanctified, but alſo even to dare to be ſacrificed, <hi>John. 10.</hi>
+            </p>
+            <p>To ſuffer then any of the flocke of Chriſt to want their moſt pre<g ref="char:EOLhyphen"/>cious food, as I judge my ſelf, were juſtly to condemn me to be either mercienarily unfaithfull, or politickly ſubtill, contrarie to ſelf-denyall, and ſimplicitie, the ſhining jamage of Chriſtiantie, that all ſtumbling ſtones might be caſt out of the way of Gods people, I having earneſtly ſought God, to make the way to his ſupper plaine before me.</p>
+            <p>As the Lord hath returned, I moſt humbly preſent this Chriſtian
+<pb facs="tcp:168044:3"/>conſent, concerning Communion and Excommunication as the Lords Table; with my ſermon Entitled the Doctrine of the martyrs Re<g ref="char:EOLhyphen"/>membred, and a Declaration, both holding foth in part, the Doctrine with ſome diſcoveries of undew, negligent adminiſtrations, and cauſeleſs ſeparation.</p>
+            <p>And now I do moſt humbly appeale unto you in every reſpect fit judges, whether any Chriſtian that deſires to be honeſt and faithfull to the profeſſion which according to his light he doth acknowledge in Baptiſme, hath any juſt accaſion to complaine, that this way is too ſtrict, or that he is debarred from Receiving.</p>
+            <p>Or that any ought to judge one an others conſcience for out ſub<g ref="char:EOLhyphen"/>miting unto Baptiſme as they acknowledge it.</p>
+            <p>And further, in that we profeſs to worſhip, Praiſe, renew our ſelves as we have ſinned againſt our Creator, and mercifull Father, in going unto the throne of Grace, as from the beginning, held forth in the new and Living way, as in Chriſt revealed, and in that we profeſs to judge no mans light, Jew nor Gentile, ſo as to perſecute them, nor to ſeparate from any Chriſtian that ſhall according to his light, that is in him, walk up to the rule in acknowledgeing his Baptiſme as he hath atained.</p>
+            <p>And in that we profeſs, as from the beginning, the Magiſtrates power in the Church, and avoid all ſchiſmes and factions.</p>
+            <p>Therefore we call the world to witneſs, whether we hereby give any occaſion, or provoke any man though of contrary judgement to per<g ref="char:EOLhyphen"/>ſecute or Reproach us, if they be either honeſt or reaſonable, we deſire<g ref="char:EOLhyphen"/>ing to be informed (all ſeeing but in part) wherein we are erring from the primitine Churches: we deſiring, That the communion of Saints is an Article of Faith, by which God is the Father of all believers.</p>
+            <closer>
+               <signed>W. Kaye.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:168044:3"/>
+            <head>A Free, Plain, and Juſt Way Concerning Communion and Excommunication, At, Or from The Lords Table.</head>
+            <div n="1" type="objection">
+               <head>1. <hi>Concerning admiſſion into Church-Communion to the Lords Table.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">A</seg>LL Chriſtians that ſhall willingly acknow<g ref="char:EOLhyphen"/>ledge their Baptiſme, according to the meaſure of Light that they have
+<note n="*" place="margin">Phil. 3.16. comp. with Rom. 14.14, 15.</note> attain<g ref="char:EOLhyphen"/>ed to, holding forth their belief in Fa<g ref="char:EOLhyphen"/>ther, Son, and Holy Ghoſt, and ſhall de<g ref="char:EOLhyphen"/>ſire alſo to receive the Lords Supper
+<note n="*" place="margin">1 Cor. 11.28.</note> up<g ref="char:EOLhyphen"/>on examination of themſelves, through Goſpel-repentance, and to
+<note n="*" place="margin">1 Cor. 11.29.</note> diſcern the Lords Body, for the ſtrengthening of their Faith, to endea<g ref="char:EOLhyphen"/>vor, to
+<note n="*" place="margin">Mat. 5.16.</note> glorifie God in the obſervation of prayer in private with
+<note n="*" place="margin">Mat. 6.6. Act. 10.2. Chriſtians profeſs prayer both in pri<g ref="char:EOLhyphen"/>vate and pub<g ref="char:EOLhyphen"/>like.</note> Lords Day-worſhip, reading and hearing the Scriptures read in publike, with prayer, preaching,
+<note n="*" place="margin">Act. 7.20. Act. 16.13, 14.</note> ſinging of Pſalmes, Faſting, and Church-Government, with approbation and ſub<g ref="char:EOLhyphen"/>miſſion to the
+<note n="*" place="margin">Mat. 26.30.</note> Magiſtrates power therein, as well as in civil ju<g ref="char:EOLhyphen"/>riſdiction: That an orderly, honeſt, ſober, peaceable,
+<note n="*" place="margin">1 Tim. 1.9, 10.2 Theff, 2.4.</note> and humble converſation towards all men, might be preſerved; ought to break Bread together with Gods people, at the Lords Table.</p>
+            </div>
+            <div n="2" type="objection">
+               <pb n="2" facs="tcp:168044:4"/>
+               <head>2. <hi>Concerning Separation or Excommunication.</hi>
+               </head>
+               <p>ALl ſuch Chriſtians, as are or ſhall be admitted, as above-ſaid, ought not to be excommunicated, or ſeparated from the Lords Table for any ſin or error, by which they ſhall be overtaken (for which there remaineth a
+<note n="*" place="margin">Mat. 18.15, 16, 17.</note> ſacrifice) If they ſhall either by
+<note n="*" place="margin">Heb. 10.26.</note> private, or publike Chriſtian exhortation or advice be gained, ſo as not willfully to refuſe to receive the Supper of the Lord, by which Chriſtian Ordinance they have a bleſſed oppor<g ref="char:EOLhyphen"/>tunity, to
+<note n="*" place="margin">Mat. 18. Praiſes and re<g ref="char:EOLhyphen"/>pentance are perfected by the diſcover<g ref="char:EOLhyphen"/>ing of Chriſts body,</note> perfect their Praiſes and Repentance.</p>
+            </div>
+            <div n="3" type="objection">
+               <head>3. <hi>The ground why any ſhould receive, that graciouſly deſire it.</hi>
+               </head>
+               <p>ALl Chriſtians that would walk according to the light thats in them, by which a ſacrifie for ſin as in <hi>Cain</hi> and <hi>Abel</hi> was held forth from the beginning, muſt expect that Chriſt be the ſame to us to day, as he was yeſterday to our forefathers, with further improvement of light and liberty. Therefore though by Chriſt the Onely
+<note n="*" place="margin">Heb. 10.1, 2, &amp;c. 8, 9, 19, 29.</note> Sacrifice for our ſins, the ſacrifices of Beaſts as a ſhaddow thereof are totally aboliſhed, yet hath he eſtab<g ref="char:EOLhyphen"/>liſhed a ſecond in his Supper, to hold forth his Body by the bleſſed Bread and Wine, as the Commemoration of his ſacri<g ref="char:EOLhyphen"/>fice, which therefore ought often to be adminiſtred in every private Overſight, with the ſubmiſſion to the General, for the ſoul-uniting, reforming, and comforting of Gods people, where<g ref="char:EOLhyphen"/>ing they <hi>Jeeking the welfare</hi> of their ſouls, ought no more to be deprived of this hidden Manna, then to have their Bodily food taken from them. Objections to the contrary anſwered.</p>
+               <p>Object. 1. <hi>With contrary judgements in reſpect of Baptiſm there is no Communion.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> If mens judgements onely differ, in not attaining to the ſame meaſure of knowledge in all circumſtances concerning Baptiſm (defects and imperfections in prayers, ſinging and in the Lords Supper, ariſing either through ignorance or frailty, being made perfect as well as the imperfections in Baptiſm, through Chriſts Mediatorſhip) therefore though with the Apoſtle we may condemn each others opinion, and ſay we know and per<g ref="char:EOLhyphen"/>ceive
+<pb n="3" facs="tcp:168044:4"/>by the Lord Jeſus, that it is
+<note n="*" place="margin">Rom. 14.14, 15.</note> nothing, yet muſt we not notwithſtanding, as the Apoſtle teacheth us; we cannot con<g ref="char:EOLhyphen"/>demn any mans conſcience in his endeavoring to ſubmit, as he hath
+<note n="*" place="margin">Phil. 3.16.</note> attained unto the rule: to meaſure then our ſelves by our ſelves, and ſo compare our ſelues by our ſelves, ſo as to ſet at nought our Brethren, whom God commands us not to judge, looking after the rule, as they have attained, is not equal. Or it is not the minde of Chriſt in reſpect of difference of judgement in attaining to the rule to ſeparate or refer to Communicate with ſuch as walk in imitation of Chriſt in all his command<g ref="char:EOLhyphen"/>ments.</p>
+               <p>Object. 2, <hi>The Church of</hi> Cornith <hi>did Excommunicate the in<g ref="char:EOLhyphen"/>ceſtuous perſon; and we are required, that if a brother be a drun<g ref="char:EOLhyphen"/>kard, an idolater, an adulterer, a covetous perſon, or extortioner, not to eat or drink with him, or bear him company.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The Church of <hi>Cornith,</hi> or private brethren, had not power of Excommunication, and therefore <hi>Paul</hi> not leaving it to them to judge, bade them, as he had already judged, to put a<g ref="char:EOLhyphen"/>way the wicked perſon, as he wiſhed in another place they were cut off that troubled the Church; which putting away, and and cutting off, muſt not be done without a fair tryal by wit<g ref="char:EOLhyphen"/>neſſes and judgement in caſe of denyal, or not except they ſhall not be gained upon admonition; for none can be excom<g ref="char:EOLhyphen"/>municated without lawful proceeding, according to the rule,
+<note place="margin">An Heretick was to have two admoniti<g ref="char:EOLhyphen"/>ons, Tit. 3.10.</note> or appointment of Jeſus Chriſt, as he hath ordered to judge any of<g ref="char:EOLhyphen"/>fender which is to be admoniſhed by one or more, if by the firſt he be not in a private way grieved; and then to tell it to the Church, which Church by the mouth of their Paſtor or An<g ref="char:EOLhyphen"/>gel, is in the name of Chriſt, and in Chriſts ſtead to exhort, allure and perſwade the offending Brother to be reconciled to God by the blood of Chriſts Sacrifice, held forth in the Lords Supper;
+<note place="margin">A man muſt not be exclu<g ref="char:EOLhyphen"/>ded for impe<g ref="char:EOLhyphen"/>nitency, till he rejectth the means where<g ref="char:EOLhyphen"/>by he may be penitent, or re<g ref="char:EOLhyphen"/>fuſe to look up to Chriſt, as by the brazen Serpent.</note> ſo that the Church muſt not Excommunicate before a man do wilfully refuſe to profeſs Repentance, or to Communicate: for as it was never ſo from the beginning, ſo it is unreaſonable for the Church to Excommunicate a man from the Lords Supper, if he ſhall be penitent; as it were for a man to withhold his neighbour, that is both wounded and beſmeared, to go to the Phyſician and fountain to be waſhed and cured. The Church then cannot Excommunicate a ſinner that thirſts after reconciliation,
+<pb n="4" facs="tcp:168044:5"/>or deprive any Chriſtian of his ſpiritual food, and garment of Righteouſneſs; ſeeing Chriſt is preached to ſuch, offered to ſuch, invites ſuch, and ſays that he will not in any wiſe caſt away any that cometh unto him.</p>
+               <p>Object. 3. <hi>If men be not excluded for the breach of their profeſſi<g ref="char:EOLhyphen"/>on in Baptiſm, but may have liberty to profeſs repentance, they may run from ſin to ſin, and ſo continue without repentance.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> This conjecture is as unreaſonable, as it is to ſuppoſe that to ſuffer a man to hear the word preached, were the cauſe of unbelieving, though it be true that all that hear become not believers: therefore if we have the Spirit of Jeſus, we muſt not be offended with unprofitable hearers, becauſe it is their right and the means appointed for their ſalvation; which to oppoſe them in, is to ſhut the Kingdom of Heaven againſt men. So in the like manner we muſt not be offended, though theſe that profeſs their Baptiſm, and ſo are admitted to the Lords Table, ſhall often receive without viſible fruit of Reformation, be<g ref="char:EOLhyphen"/>cauſe it is their priviledge and means of heart-Reformation and Chriſtian communion: for if they belong unto God, they ſhall in his appointed time become worthy partakers; and if not, the Divel <hi>Judas</hi>-like will enter into their hearts, whereby they ſhall perſecute or forſake their profeſſion, or the external judge<g ref="char:EOLhyphen"/>ment of God will fall upon them, as it did on ſome of the <hi>Co<g ref="char:EOLhyphen"/>rinthians,</hi> ſo that they ſhall not, as is objected, long continue; for the Divel cannot endure to be long tormented with the blood of Chriſt held forth in this Ordinance.</p>
+            </div>
+            <div n="4" type="objection">
+               <head>Obj. 4. <hi>This is an eaſie way, or openeth the door too wide, or gi<g ref="char:EOLhyphen"/>veth too much liberty.</hi>
+               </head>
+               <p>
+                  <hi>Anſ.</hi> It is no more eaſie then our fathers that lived under the Law enjoyed, ſave that they were burthened with ceremonial cleanſings, and ſacrificing of their flocks, whereby they gave the meat from their mouths, and we may have by Bread and Wine the ſanctified refreſhments both of body and ſoul; and therefore that the yoak is made eaſie to be born, is not to be objected a<g ref="char:EOLhyphen"/>gainſt, but to be highly prized.</p>
+            </div>
+            <div n="5" type="objection">
+               <head>Obj. 5. <hi>How can it be proved that the Lords Supper in all intents doth ſucceed the uſe of the Altar which is aboliſhed?</hi>
+               </head>
+               <p>
+                  <hi>Anſ.</hi> Though he hath taken away the firſt, the Sacrifies of the Law offered on the Altar, yet hath he eſtabliſhed a ſecond, <hi>Heb.</hi> 10.9, 10. the ſacrificing of Chriſt himſelf held forth in the Lords
+<pb n="5" facs="tcp:168044:5"/>Supper, the New and Living way to go to the Holieſt by his blood, <hi>Heb.</hi> 13.9, 10.
+<note place="margin">The Altar and the Lords Table com<g ref="char:EOLhyphen"/>pared.</note> For as they that went to the Altar per<g ref="char:EOLhyphen"/>fected their repentance and praiſes, to ſtrengthen their faith in the belief of Chriſt the Lamb, ſlain from the beginning, with further expectation that Chriſt ſhould be revealed; ſo in this every one that is to come to the Lords Supper is in like maner, 1.
+<note n="*" place="margin">1 Cor. 11.28.</note> To exaime themſelves to the reforming of their lives, or perfecting of repentance. 2. To
+<note n="*" place="margin">1 Cor. 11.</note> diſcern the Lords Body, once ſacrificed for them. 3. To have their faith ſtrengthened in the remembrance of his ſecond coming. And 4. To celebrate praiſe, a
+<note n="*" place="margin">1 Cor. 11.26.</note> feaſtival; ſo that the Doctrine of the Altar,
+<note n="*" place="margin">1 Cor. 5.</note> and the Lords Supper held forth in the ſecond, ſucceedeth the firſt, or the ſacrifice of the Altar, in all uſes, and intentions.</p>
+            </div>
+            <div n="6" type="objection">
+               <head>Obj. 6. <hi>This brings us unto the old way again.</hi>
+               </head>
+               <p>
+                  <hi>Anſ.</hi> If by the old way be meant that we ſhould obſerve that old way that Chriſt and his Apoſtles, and Primitive Churches, and their ſucceſſors for ſix hundred yeers after Chriſt obſerved, when were Golden Paſtors,
+<note place="margin">Golden Pa<g ref="char:EOLhyphen"/>ſtors and wooden Cups.</note> and Chriſtians did often receive with gladneſs of heart, praiſing God, living in ſimplicity, ſinceri<g ref="char:EOLhyphen"/>ty, and holineſs; it were a mercy then to ſee this good and old path, for which our Martyrs contended for, reſtored:
+<note place="margin">
+                     <hi>Note.</hi>
+                  </note> For as we have more and more digreſſed from the old way, we have by little and little, run into the wayes of Schiſm, cauſeleſs ſepa<g ref="char:EOLhyphen"/>ration, errors and profaneſs, ſo that Chriſtianity is almoſt brought to propheſie in ſackcloth, and that he that oppoſeth error maketh himſelf a prey, if not a ſigne and wonder. Therefore if God intend to bleſs this Nation with his wonted preſence, when Chriſtians unitedly, and faithfully according to their light did communicate, then we ſhall ſee the old way again reſtored, and ſo we ſhall be called the repairers of the Breaches.</p>
+            </div>
+            <div n="7" type="objection">
+               <head>Obj. 7. <hi>We know none but you that hold this opinion.</hi>
+               </head>
+               <p>
+                  <hi>Anſ.</hi> Then are you not acquainted with many ſolid,
+<note place="margin">
+                     <hi>Artic.</hi> 28.</note> ſober and zealous Chriſtians, the Antient Fathers, and Modern Divines, and ignorant of the Doctrine or Article of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that have made free paſſage to the Supper of the Lord, as ever God made to the Altar for the humble, thirſty, and peni<g ref="char:EOLhyphen"/>tent, ſo far from drawing back,
+<note place="margin">Mr. <hi>Prinns</hi> Separation ſe<g ref="char:EOLhyphen"/>parated.</note> as that they did rather through zeal to their ſouls, compell them to communicate. But eſpeci<g ref="char:EOLhyphen"/>ally you have not ſeen Mr. <hi>Prinns</hi> Book, our zealous and faith<g ref="char:EOLhyphen"/>ful
+<pb n="6" facs="tcp:168044:6"/>witneſs of the Truth, who hath very notably defended a new way to the Lords Table, ſo that I know none that held the contrary opinion, but Tyrannical Antichriſt and ſome profeſ<g ref="char:EOLhyphen"/>ſing Saints, for whom I mourn to ſee them write after <hi>Romes</hi> copy, in their private Church-diſcipline of excluſion from the Lords Table: As though the Church Keyes were turned into Door-bolts; and the ſweet hony of the Kingdom of Heaven ſhould be changed into the juice of ſower Grapes of the De<g ref="char:EOLhyphen"/>generated vineyard, in that penitent groans are ſleighted by Politick ſuſpenſions, though they have not a letter or conſe<g ref="char:EOLhyphen"/>quence of Scripture, to judge of their brethrens hearts, for the ſpace of a week, day, or hour in reſpect of repentance, whereby to exclude them from the Lords Supper, which is not onely called the ſigne of that love which Chriſtians ſhould have one to another;
+<note place="margin">Doct. of the Church of England.</note> but it is called the Sacrament of our Redemption; In which way to ſee it freely and duly adminiſtred to the glory of God in the unity and conſolation of all Saints and poor ſin<g ref="char:EOLhyphen"/>ners, is the way that is onely aimed at: for the profeſſion of which I eat my hidden Manna, in ſuffering the hatred and re<g ref="char:EOLhyphen"/>proach of ſome perſecuting ſpirits.</p>
+            </div>
+            <div n="8" type="objection">
+               <head>Obj. 8. <hi>It appertaineth not to the Magiſtrate to have to do in Church Government.</hi>
+               </head>
+               <p>
+                  <hi>Anſ.</hi> Though it be well known that the Magiſtrate had ever ſupream power in the Church, and that the Goſpel-diſciples then might and were owned till Antichriſt oppoſed them, yet it cannot be proved, that either under the Law or in the New Teſtament that private Brethren of any Church, ought to Judge, or rule in matters of Excommunication, or matters of Law; for then they ſhould be Rulers and not ruled. To have then a Magiſtrate to appeal unto, and that the Magiſtrate with the Miniſters take the General overſight,
+<note place="margin">Se more of this in my Decla<g ref="char:EOLhyphen"/>ration.</note> and judge all private overſights, is to make them Nurſing Fathers, and the Churches to grow in Grace, Truth, and Unity.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
